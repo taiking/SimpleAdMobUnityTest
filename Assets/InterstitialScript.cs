@@ -9,9 +9,9 @@ public class InterstitialScript : MonoBehaviour
     public void OnClick()
     {
 #if UNITY_ANDROID
-        string adUnitId = "ca-app-pub-3940256099942544/1033173712";
+        string adUnitId = "ca-app-pub-3010029359415397/6508599618";
 #elif UNITY_IPHONE
-        string adUnitId = "ca-app-pub-3940256099942544/4411468910";
+        string adUnitId = "ca-app-pub-3010029359415397/5031866416";
 #else
         string adUnitId = "unexpected_platform";
 #endif

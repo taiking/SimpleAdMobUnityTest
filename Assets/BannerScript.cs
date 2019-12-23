@@ -8,9 +8,9 @@ public class BannerScript : MonoBehaviour
     public void OnClick()
     {
 #if UNITY_ANDROID
-            string adUnitId = "ca-app-pub-3940256099942544/6300978111";
+            string adUnitId = "ca-app-pub-3010029359415397/7064785775";
 #elif UNITY_IPHONE
-        string adUnitId = "ca-app-pub-3940256099942544/2934735716";
+        string adUnitId = "ca-app-pub-3010029359415397/1722697861";
 #else
             string adUnitId = "unexpected_platform";
 #endif
