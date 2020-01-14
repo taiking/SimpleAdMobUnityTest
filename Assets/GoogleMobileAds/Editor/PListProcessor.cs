@@ -62,7 +62,7 @@ public static class PListProcessor
 #if UNITY_2017_1_OR_NEWER
         throw new BuildPlayerWindow.BuildMethodException(prefix + message);
 #else
-        //throw new OperationCanceledException(prefix + message);
+        throw new OperationCanceledException(prefix + message);
 #endif
     }
 }
