@@ -25,5 +25,4 @@ public class RewardedScript : MonoBehaviour
     {
         rewardBasedVideo.Show();
     }
-
 }
