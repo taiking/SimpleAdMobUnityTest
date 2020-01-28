@@ -5,6 +5,11 @@ public class BannerScript : MonoBehaviour
 {
     private BannerView bannerView;
 
+    public void Start()
+    {
+        MobileAds.Initialize(initStatus => { });
+    }
+
     public void OnClick()
     {
 #if UNITY_ANDROID

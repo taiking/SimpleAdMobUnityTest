@@ -6,6 +6,11 @@ public class InterstitialScript : MonoBehaviour
 {
     private InterstitialAd interstitial;
 
+    public void Start()
+    {
+        MobileAds.Initialize(initStatus => { });
+    }
+
     public void OnClick()
     {
 #if UNITY_ANDROID

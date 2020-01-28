@@ -7,16 +7,16 @@
     <package>com.maio:android-sdk:1.1.10@aar</package>
     <package>com.tapjoy:tapjoy-android-sdk:12.3.4@aar</package>
     <package>com.unity3d.ads:unity-ads:3.3.0</package>
-    <package>jp.fluct.fluctsdk:banner:6.1.1</package>
-    <package>jp.fluct.mediation.gma:gma-mediation:6.1.1</package>
-    <package>jp.fluct.mediation:rewardedvideo-mediation-adcolony:6.1.1</package>
-    <package>jp.fluct.mediation:rewardedvideo-mediation-adcorsa:6.1.1</package>
-    <package>jp.fluct.mediation:rewardedvideo-mediation-applovin:6.1.1</package>
-    <package>jp.fluct.mediation:rewardedvideo-mediation-maio:6.1.1</package>
-    <package>jp.fluct.mediation:rewardedvideo-mediation-nend:6.1.1</package>
-    <package>jp.fluct.mediation:rewardedvideo-mediation-tapjoy:6.1.1</package>
-    <package>jp.fluct.mediation:rewardedvideo-mediation-unityads:6.1.1</package>
-    <package>jp.fluct:FluctSDK:6.1.1</package>
+    <package>jp.fluct.fluctsdk:banner:7.0.0</package>
+    <package>jp.fluct.mediation.gma:gma-mediation:7.0.0</package>
+    <package>jp.fluct.mediation:rewardedvideo-mediation-adcolony:7.0.0</package>
+    <package>jp.fluct.mediation:rewardedvideo-mediation-adcorsa:7.0.0</package>
+    <package>jp.fluct.mediation:rewardedvideo-mediation-applovin:7.0.0</package>
+    <package>jp.fluct.mediation:rewardedvideo-mediation-maio:7.0.0</package>
+    <package>jp.fluct.mediation:rewardedvideo-mediation-nend:7.0.0</package>
+    <package>jp.fluct.mediation:rewardedvideo-mediation-tapjoy:7.0.0</package>
+    <package>jp.fluct.mediation:rewardedvideo-mediation-unityads:7.0.0</package>
+    <package>jp.fluct:FluctSDK:7.0.0</package>
     <package>net.nend.android:nend-sdk:5.1.1</package>
   </packages>
   <files>
@@ -72,16 +72,16 @@
     <file>Assets/Plugins/Android/com.maio.android-sdk-1.1.10.aar</file>
     <file>Assets/Plugins/Android/com.tapjoy.tapjoy-android-sdk-12.3.4.aar</file>
     <file>Assets/Plugins/Android/com.unity3d.ads.unity-ads-3.3.0.aar</file>
-    <file>Assets/Plugins/Android/jp.fluct.fluctsdk.banner-6.1.1.aar</file>
-    <file>Assets/Plugins/Android/jp.fluct.FluctSDK-6.1.1.aar</file>
-    <file>Assets/Plugins/Android/jp.fluct.mediation.gma.gma-mediation-6.1.1.aar</file>
-    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-adcolony-6.1.1.aar</file>
-    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-adcorsa-6.1.1.aar</file>
-    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-applovin-6.1.1.aar</file>
-    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-maio-6.1.1.aar</file>
-    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-nend-6.1.1.aar</file>
-    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-tapjoy-6.1.1.aar</file>
-    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-unityads-6.1.1.aar</file>
+    <file>Assets/Plugins/Android/jp.fluct.fluctsdk.banner-7.0.0.aar</file>
+    <file>Assets/Plugins/Android/jp.fluct.FluctSDK-7.0.0.aar</file>
+    <file>Assets/Plugins/Android/jp.fluct.mediation.gma.gma-mediation-7.0.0.aar</file>
+    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-adcolony-7.0.0.aar</file>
+    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-adcorsa-7.0.0.aar</file>
+    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-applovin-7.0.0.aar</file>
+    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-maio-7.0.0.aar</file>
+    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-nend-7.0.0.aar</file>
+    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-tapjoy-7.0.0.aar</file>
+    <file>Assets/Plugins/Android/jp.fluct.mediation.rewardedvideo-mediation-unityads-7.0.0.aar</file>
     <file>Assets/Plugins/Android/net.nend.android.nend-sdk-5.1.1.aar</file>
   </files>
   <settings>

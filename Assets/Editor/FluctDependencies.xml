@@ -1,6 +1,6 @@
 <dependencies>
    <androidPackages>
-      <androidPackage spec="jp.fluct:FluctSDK:6.1.1">
+      <androidPackage spec="jp.fluct:FluctSDK:7.0.0">
          <repositories>
             <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
             <repository>https://maven.google.com</repository>
@@ -9,7 +9,7 @@
          </repositories>
       </androidPackage>
       <!--最新のSDKバージョンをご利用ください-->
-      <androidPackage spec="jp.fluct.mediation.gma:gma-mediation:6.1.1">
+      <androidPackage spec="jp.fluct.mediation.gma:gma-mediation:7.0.0">
          <repositories>
             <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
             <repository>https://maven.google.com</repository>
@@ -18,7 +18,7 @@
          </repositories>
       </androidPackage>
       <!--最新のSDKバージョンをご利用ください-->
-      <androidPackage spec="jp.fluct.fluctsdk:banner:6.1.1">
+      <androidPackage spec="jp.fluct.fluctsdk:banner:7.0.0">
          <repositories>
             <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
             <repository>https://maven.google.com</repository>
@@ -33,7 +33,7 @@
             <repository>http://central.maven.org/maven2</repository>
          </repositories>
       </androidPackage>
-      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-applovin:6.1.1">
+      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-applovin:7.0.0">
          <repositories>
             <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
             <repository>https://maven.google.com</repository>
@@ -49,7 +49,7 @@
             <repository>http://central.maven.org/maven2</repository>
          </repositories>
       </androidPackage>
-      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-maio:6.1.1">
+      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-maio:7.0.0">
          <repositories>
             <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
             <repository>https://imobile-maio.github.io/maven</repository>
@@ -66,7 +66,7 @@
             <repository>http://central.maven.org/maven2</repository>
          </repositories>
       </androidPackage>
-      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-nend:6.1.1">
+      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-nend:7.0.0">
          <repositories>
             <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
             <repository>http://fan-adn.github.io/nendSDK-Android-lib/library</repository>
@@ -82,7 +82,7 @@
             <repository>http://central.maven.org/maven2</repository>
          </repositories>
       </androidPackage>
-      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-unityads:6.1.1">
+      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-unityads:7.0.0">
          <repositories>
             <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
             <repository>https://maven.google.com</repository>
@@ -98,7 +98,7 @@
             <repository>http://central.maven.org/maven2</repository>
          </repositories>
       </androidPackage>
-      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-adcolony:6.1.1">
+      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-adcolony:7.0.0">
          <repositories>
             <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
             <repository>https://adcolony.bintray.com/AdColony</repository>
@@ -115,7 +115,7 @@
             <repository>http://central.maven.org/maven2</repository>
          </repositories>
       </androidPackage>
-      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-tapjoy:6.1.1">
+      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-tapjoy:7.0.0">
          <repositories>
             <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
             <repository>https://tapjoy.bintray.com/maven</repository>
@@ -132,7 +132,7 @@
             <repository>http://central.maven.org/maven2</repository>
          </repositories>
       </androidPackage>
-      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-adcorsa:6.1.1">
+      <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-adcorsa:7.0.0">
          <repositories>
             <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
             <repository>https://github.com/glossom-dev/GlossomAds-Android/raw/master</repository>
